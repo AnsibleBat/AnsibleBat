@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solana/solana-original.svg" height="60" alt="solana logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solana/solana-original.svg" height="60" alt="solana logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="60" alt="ethereum logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ethereum/ethereum-original.svg" height="60" alt="ethereum logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="60" alt="solidity logo"  />
   <img width="12" />
